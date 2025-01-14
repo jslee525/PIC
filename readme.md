@@ -1,7 +1,5 @@
 # Diffusion-based Image-to-Image Translation by Noise Correction via Prompt Interpolation (ECCV 2024 Poster) 
 
-*Sorry for working in progress! We should add some details for our code.
-
 This is the official code of the paper "Diffusion-based Image-to-Image Translation by Noise Correction via Prompt Interpolation" in ECCV 2024. 
 
 ![thumbnail](assets/thumbnail.png)
